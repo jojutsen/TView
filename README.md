@@ -1,14 +1,12 @@
 
 
 <p align="center">
-SELAMAT DATANG DI GITHUB X NOREALS
+`WELCOME`
 </p>
 
 
 
 &emsp;
-
-<h2 align="center">tutorial: <a href="https://youtu.be/ENh0m6W_vh8">https://youtu.be/ENh0m6W_vh8</a></h2>
 
 <!--
 <p align="center">
