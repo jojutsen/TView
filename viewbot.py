@@ -257,7 +257,7 @@ class Main:
 
                 if "Too many requests. Please slow down." in decrypted_response:
                     print(self.format("x", "Ratelimited"))
-                    time.sleep(120)
+                    time.sleep(20)
                     continue
 
                 timer = self.decrypt_timer(decrypted_response)
